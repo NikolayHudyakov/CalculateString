@@ -35,5 +35,5 @@ def calc(expression: str) -> int:
         return calculated(expression)
 
 
-print(calc('(2 + (2 + 3)) * 2 + 7 * (12 + 54)'))
+print(calc('(2 + (2 + 3)) * 2 + 8 * (12 + 54)'))
 
