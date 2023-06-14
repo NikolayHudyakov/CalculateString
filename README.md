@@ -1,1 +1,1 @@
-# myTest
+# Calc string
